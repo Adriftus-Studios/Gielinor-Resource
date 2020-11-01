@@ -11,6 +11,8 @@ Except where otherwise specified, the revisions referenced as part of this conte
 ### Fork Dates
 
 - Gielinor | 02 February 2018
+- Gielinr-Development | 31 October 2020
+- Gielinr-Metacognition | 31 October 2020
 - Gielinor-Resources | 14 June 2019
 
 ### Commercial Use Waiver
