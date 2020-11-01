@@ -2,7 +2,7 @@
 
 As an always first-hand and foremost; thanks for considering contributing.
 
-The following is a set of guidelines for contributing to the Gielinor Project as a whole, which are hosted presently in a few locations, but primarily to be hosted within the [`[bAlcoholics organization]`](https://github.com/bAlcoholics) and within [`[my (BehrRiley) repositories]`](https://github.com/BehrRiley).
+The following is a set of guidelines for contributing to the Gielinor Project as a whole, which are hosted presently in a few locations, but primarily to be hosted within the [`[Adriftus Network organization]`](https://github.com/Adriftus-Network).
 
 :taco: Table Of Contents
 
@@ -45,11 +45,11 @@ As a contributor, you agree to be attributed by any of:
 
 ### Fostering Our Environment
 
-For all code Implementation, please make sure this is your own work. In the case that someone has asked you, or you are someone requesting a current active contributor to implement your contribution, we ask that who-ever has created the content to contribute this themselves from their own GitHub account. We offer oAuth connections and applications available to process handling the repository forks for you to better expedite the grunt-work behind setting up a workplace, however it is not required to fork and create a pull request with your contributions. As mentioned in the intro, please don't be afraid to ask if not knowing how prevents you from contributing. We're here to help you help us if that's the case.
+For all code Implementation, please make sure this is your own work or that it is sufficiently credited. In the case that someone has asked you, or you are someone requesting a current active contributor or maintainer to implement your contribution, we ask that who-ever has created the content to contribute this themselves from their own GitHub account. We offer oAuth connections and applications available to process handling the repository forks for you to better expedite the grunt-work behind setting up a workplace, however it is not required to fork and create a pull request with your contributions. As mentioned in the intro, please don't be afraid to ask if not knowing how prevents you from contributing. We're here to help you help us if that's the case.
 
 In the case that the content being contributed is not yours or references content from another source, we ask and strongly recommend that you credit where credit belongs, just as we request that the person contributing is the one contributing as themselves as referenced in the previous paragraph. There's no shame in mentioning you found something cool someplace and made the effort to contribute it to our project - so long as we credit both people for the great work.
 
-Content must verifiable functional, or be evident that it would work. Testing is the best way to verify that something you've made works. A good rule of thumb is that if you can provide evidence (eg, a screenshot or a video) of the feature working, you likely won't be questioned whether or not you've tested this. We ask that you take adequate time to thoroughly verify your content works; Even a single active developer for a scripting language that they primarily coordinate the design and function for will typically cross-reference their documentation and meta for content when working with their own language.
+Content with functions must verifiable working, or be evident that it would work. Testing is the best way to verify that something you've made functions properly. A good rule of thumb is that if you can provide evidence (eg, a screenshot or a video) of the feature working, you likely won't be questioned whether or not you've tested this. We ask that you take adequate time to thoroughly verify your content works; Even a single active developer for a scripting language that they primarily coordinate the design and function for will typically cross-reference their documentation and meta for content when working with their own language.
 
 Lastly, while this guide is meant to be guideline for contribution, we strongly request you abide code styles, formatting, and by no means obfuscate any content.
 
@@ -65,14 +65,9 @@ This project is affiliated and partnered with Adriftus. Adriftus is a growing or
 
 ### Relevant Repositories
 
-- **BehrRiley/Gielinor-Resources** - This is the repository designed for the Gielinor Project's general assets for the internal resource pack used.
-- **Adriftus-Studios/network-script-data** - This is the core of our server's development and script repository. All of our open-source content towards the production of our servers are established here.
-- **BehrRiley/network-script-data** - This is the directed upstream repository used for contributing to the above repository. When contributing scripts for the server, you should fork this repository.
-- **Adriftus-Studios/dDiscordBot** - This is our server's fork of dDiscordBot. Open source for references for custom Discord scripts.
-- **Adriftus-Studios/Webizen** - This is the core of our server's global resource pack. All of our open-source resource pack made for our live server is hosted as a direct link here.
-- **Mutim/adriftus-resources** - This is the directed upstream repository used for contributing to the above repository. When contributing resource pack content for the server, you should fork this 
-- **Adriftus-Studios/adriftus-resources** - This is the core upstream directory for the Adriftus Server's primary resource pack.
-- **Adriftus-Studios/Adriftizen** - This is the repository primed for adding any content not valid to any of the other repositories.
+- **Adriftus-Studios/Gielinor-Development** - This is the repository designed for the Gielinor Project's general assets for the internal resource pack used.
+- **Adriftus-Studios/Gielinor-Metacognition** - This is the repository designed for the Gielinor Project's workflow and organization repository such as notes, document writeups and planning.
+- **Adriftus-Studios/Gielinor-Resources** - This is the core directory for the Gielinor Project's primary resource pack.
 
 ### General Standards
 
@@ -115,7 +110,6 @@ Explain the problem and include additional details to help reproduce the problem
   - If the problem wasn't triggered by a specific action, describe what you were doing before the problem happened and share more information using the guidelines below.
 
 Provide more context by answering these questions:
-  - Can you reproduce the problem in safe mode?
   - Did the problem start happening recently or was this always a problem?
   - If the problem hasn't just started happening recently, when did you first notice or hear of this happening? Please provide details about how often the problem happens and under which conditions it normally happens.
   - If the problem is related to working with files (e.g. opening and editing files), does the problem happen for all files and projects or only some? Does the problem happen only when working with local or remote files (e.g. on network drives), with files of a specific type (e.g. only Denizen Scripts or a specific extension of files), with large files or files with very long lines, or with files in a specific encoding? Is there anything else special about the files you are using?
