@@ -3,7 +3,7 @@
 	"__trademarks": "RuneScape and RuneScape Old School are the trademarks of Jagex Limited and are used with the permission of Jagex",
 	"__comment": "Designed by Bear with Cubik Studio - https://cubik.studio",
 	"textures": {
-		"texture": "item/godsword/zamorak_godsword"
+		"texture": "gielinor:item/godsword/zamorak_godsword"
 	},
 	"elements": [ 	 
 		{

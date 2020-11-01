@@ -6,7 +6,7 @@
     "layer0": "item/wooden_sword"
   },
   "overrides": [
-    { "predicate": { "custom_model_data": 1}, "model": "gielinor:item/custom/handheld/bandos_godsword" },
-    { "predicate": { "custom_model_data": 2}, "model": "gielinor:item/custom/handheld/zamorak_godsword" }
+    { "predicate": { "custom_model_data": 1}, "model": "gielinor:item/godsword/bandos_godsword" },
+    { "predicate": { "custom_model_data": 2}, "model": "gielinor:item/godsword/zamorak_godsword" }
   ]
 }
