@@ -1,6 +1,6 @@
 {
 	"parent": "gielinor:item/ore/ores",
 	"textures": {
-		"ore": "gielinor:item/ore/runite_ore"
+		"ore": "gielinor:item/ore/coal"
 	}
 }

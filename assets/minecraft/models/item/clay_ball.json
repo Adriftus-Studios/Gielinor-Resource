@@ -6,7 +6,7 @@
     "overrides": [
       { "predicate": { "custom_model_data": 1 }, "model": "gielinor:item/ore/adamantite_ore" },
       { "predicate": { "custom_model_data": 2 }, "model": "gielinor:item/ore/blurite_ore" },
-      { "predicate": { "custom_model_data": 3 }, "model": "gielinor:item/ore/coal_ore" },
+      { "predicate": { "custom_model_data": 3 }, "model": "gielinor:item/ore/coal" },
       { "predicate": { "custom_model_data": 4 }, "model": "gielinor:item/ore/copper_ore" },
       { "predicate": { "custom_model_data": 5 }, "model": "gielinor:item/ore/daeyalt_ore" },
       { "predicate": { "custom_model_data": 6 }, "model": "gielinor:item/ore/elemental_ore" },
