@@ -1,0 +1,22 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/clay_ball"
+    },
+    "overrides": [
+      { "predicate": { "custom_model_data": 1 }, "model": "gielinor:item/ore/adamantite_ore" },
+      { "predicate": { "custom_model_data": 2 }, "model": "gielinor:item/ore/blurite_ore" },
+      { "predicate": { "custom_model_data": 3 }, "model": "gielinor:item/ore/coal_ore" },
+      { "predicate": { "custom_model_data": 4 }, "model": "gielinor:item/ore/copper_ore" },
+      { "predicate": { "custom_model_data": 5 }, "model": "gielinor:item/ore/daeyalt_ore" },
+      { "predicate": { "custom_model_data": 6 }, "model": "gielinor:item/ore/elemental_ore" },
+      { "predicate": { "custom_model_data": 7 }, "model": "gielinor:item/ore/gold_ore" },
+      { "predicate": { "custom_model_data": 8 }, "model": "gielinor:item/ore/iron_ore" },
+      { "predicate": { "custom_model_data": 9 }, "model": "gielinor:item/ore/lovakite_ore" },
+      { "predicate": { "custom_model_data": 10 }, "model": "gielinor:item/ore/lunar_ore" },
+      { "predicate": { "custom_model_data": 11 }, "model": "gielinor:item/ore/mithril_ore" },
+      { "predicate": { "custom_model_data": 12 }, "model": "gielinor:item/ore/runite_ore" },
+      { "predicate": { "custom_model_data": 13 }, "model": "gielinor:item/ore/silver_ore" },
+      { "predicate": { "custom_model_data": 14 }, "model": "gielinor:item/ore/tin_ore" }
+    ]
+  }
