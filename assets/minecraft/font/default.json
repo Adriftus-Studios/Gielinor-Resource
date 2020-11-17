@@ -313,6 +313,42 @@
             "chars": [
                 "\u6017"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "gielinor:item/minigames/castle_wars/bandages.png",
+            "ascent": 8,
+            "height": 30,
+            "chars": [
+                "\u6018"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "gielinor:gui/overlays/skills/hitpoints.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\u9950"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "gielinor:gui/stats/banner0.png",
+            "ascent": 9,
+            "height": 10,
+            "chars": [
+                "\u9951"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "gielinor:item/minigames/castle_wars/barricade.png",
+            "ascent": 8,
+            "height": 30,
+            "chars": [
+                "\u6060"
+            ]
         }
     ]
 }

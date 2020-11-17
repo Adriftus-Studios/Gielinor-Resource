@@ -126,6 +126,9 @@
         { "predicate": { "custom_model_data": 1152 }, "model": "gielinor:gui/overlays/skills/hd/strength" },
         { "predicate": { "custom_model_data": 1153 }, "model": "gielinor:gui/overlays/skills/hd/summoning" },
         { "predicate": { "custom_model_data": 1154 }, "model": "gielinor:gui/overlays/skills/hd/theiving" },
-        { "predicate": { "custom_model_data": 1155 }, "model": "gielinor:gui/overlays/skills/hd/woodcutting" }
+        { "predicate": { "custom_model_data": 1155 }, "model": "gielinor:gui/overlays/skills/hd/woodcutting" },
+
+        { "predicate": { "custom_model_data": 1300 }, "model": "gielinor:item/minigames/castle_wars/bandages" },
+        { "predicate": { "custom_model_data": 1301 }, "model": "gielinor:item/minigames/castle_wars/barricade_2" }
 	]
 }
