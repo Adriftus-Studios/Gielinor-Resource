@@ -349,6 +349,15 @@
             "chars": [
                 "\u6060"
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "gielinor:item/minigames/castle_wars/explosive_potion.png",
+            "ascent": 8,
+            "height": 30,
+            "chars": [
+                "\u6061"
+            ]
         }
     ]
 }
