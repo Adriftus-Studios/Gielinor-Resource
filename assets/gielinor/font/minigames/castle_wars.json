@@ -1,0 +1,32 @@
+{
+  "providers": [
+    {
+      "type": "ttf",
+      "file": "data:negative_spaces.ttf",
+      "shift": [0.0, 0.0],
+      "size": 10.0,
+      "oversample": 1.0
+    },
+    {
+      "type": "ttf",
+      "file": "data:minecraft.ttf",
+      "shift": [0.0, 1.0],
+      "size": 8.0,
+      "oversample": 10.0
+    },
+    { "chars": [ "\u0001"], "ascent": 13, "height": 35, "file": "gielinor:gui/container/banners/cwbanner_left.png", "type": "bitmap" },
+    { "chars": [ "\u0002"], "ascent": 13, "height": 35, "file": "gielinor:gui/container/banners/cwbanner_right.png", "type": "bitmap" },
+
+    { "chars": [ "\u0011"], "ascent": 10, "height": 22, "file": "gielinor:gui/container/banners/timer_box_left.png", "type": "bitmap" },
+    { "chars": [ "\u0012"], "ascent": 10, "height": 22, "file": "gielinor:gui/container/banners/timer_box_center.png", "type": "bitmap" },
+    { "chars": [ "\u0013"], "ascent": 10, "height": 22, "file": "gielinor:gui/container/banners/timer_box_center_full.png", "type": "bitmap" },
+    { "chars": [ "\u0014"], "ascent": 10, "height": 22, "file": "gielinor:gui/container/banners/timer_box_right.png", "type": "bitmap" },
+    { "chars": [ "\u0015"], "ascent": 10, "height": 22, "file": "gielinor:gui/container/banners/timer_box_center_edge_left.png", "type": "bitmap" },
+    { "chars": [ "\u0016"], "ascent": 10, "height": 22, "file": "gielinor:gui/container/banners/timer_box_center_edge_right.png", "type": "bitmap" },
+
+    { "chars": [ "\u0101"], "ascent": 8,  "height": 8,  "file": "gielinor:gui/overlays/skills/hitpoints.png", "type": "bitmap" },
+    { "chars": [ "\u0102"], "ascent": 9,  "height": 10, "file": "gielinor:gui/stats/banner0.png", "type": "bitmap" },
+    { "chars": [ "\u0103"], "ascent": 8,  "height": 30, "file": "gielinor:item/minigames/castle_wars/barricade.png", "type": "bitmap" },
+    { "chars": [ "\u0104"], "ascent": 8,  "height": 30, "file": "gielinor:item/minigames/castle_wars/bandages.png", "type": "bitmap" }
+  ]
+}
