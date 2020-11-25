@@ -17,6 +17,8 @@
       { "predicate": { "custom_model_data": 11 }, "model": "gielinor:item/ore/mithril_ore" },
       { "predicate": { "custom_model_data": 12 }, "model": "gielinor:item/ore/runite_ore" },
       { "predicate": { "custom_model_data": 13 }, "model": "gielinor:item/ore/silver_ore" },
-      { "predicate": { "custom_model_data": 14 }, "model": "gielinor:item/ore/tin_ore" }
+      { "predicate": { "custom_model_data": 14 }, "model": "gielinor:item/ore/tin_ore" },
+      { "predicate": { "custom_model_data": 15 }, "model": "gielinor:item/ore/clay" },
+      { "predicate": { "custom_model_data": 16 }, "model": "gielinor:item/ore/soft_clay" }
     ]
   }
